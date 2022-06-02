@@ -44,7 +44,7 @@ bash scripts/host_usage.sh psql_host psql_port db_name psql_user psql_password
 
 ## Architecture
 Every server has the host_info.sh and host_usage.sh script to insert the data into the database over the local network. Host server is responsible for the management of the database and tables through the `psql_docker.sh` and `ddl.sql` scripts. 
-
+<img width="483" alt="architecture" src="https://user-images.githubusercontent.com/104375206/171737932-57758553-1e65-44c3-bcb6-87c4fdcca2eb.png">
 
 ## Scripts
 - psql_docker.sh

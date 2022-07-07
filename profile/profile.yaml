@@ -83,7 +83,7 @@ professional_experience:
     company: "Jarvis"
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several Daily Scrum meetings where I assisted in setting the team's objectives and removing obstacles."
   - title: "Production Assistant (Part-time, Contractual)"
     company: "Way Of Wills "
     duration: "2021"
@@ -92,6 +92,21 @@ professional_experience:
       - "QA, Assisting the supervisor to perform the quality check of the product."
       - "Request Handler, Responding to requests from other members of the production team."
       - "Assistant, Assisting the supervisor analyzing the final product ready for shipment"
+      
+   - title: "Customer Support Engineer and Quality assurance analyst (Full-time)"
+    company: "WEN Solutions Pvt. Ltd  "
+    duration: "2016-2020"
+    description: 
+     bullets:
+      - "Support Lead: Resolve the customer Queries related to the Product. Communicated with business clients, understood
+their needs, and offered solutions."
+      - "Theme Reviewer: Review the themes that are to be made live in wordpress.org. Perform the technical analysis on the
+theme and report error to the developer."
+      - "QA: Quality testing of the product (Theme/Plugins).
+      - "Decision maker: Decision to make the product live after full testing. Assisted sales team to penetrate the conversion
+opportunities."
+      - "PHP Developer: Code Customization as per client request."
+      - "Documentation: Make the documentation of product and review the documentation of the product."
     
 #List of edcuation
 education: 
@@ -108,7 +123,7 @@ education:
 
 #Optional section
 others:
-  - title: "Activities"
+  - title: "Activities" 
     bullets:
       - "Taekwondo player"
       - "Volunteer, Little Sister’s Fund: Organized events, conducted workshops and delivered workshops reaching over 100 girls."

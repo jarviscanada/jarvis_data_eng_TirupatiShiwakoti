@@ -38,42 +38,37 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
+    description: "Primary scripts were developed using the "Bash" scripting language. It uses the bash script to create the docker container in order to set up a postgres psql instance. Two bash scripts, host_info.sh collects the hardware information and host_usage collects the data regarding the maemory and cpu usage and monitors resource usage every minute using crontab. These scripts are use to add the dats into database using ddl.sql file."
+  
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+    description: " Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report.
+Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a Docker container."
+    #- name: "Hadoop"
+  #  git_url: "/hadoop"
+  #  description: ""
+  #- name: "Spark"
+  #  git_url: "/spark"
+  #  description: ""
+  #- name: "Cloud/DevOps"
+  #  git_url: "/cloud_devops"
+  #  description: ""
 
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "WP Travel (WordPress Plugin)"
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
-    git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
+    description: "WP Travel is a free powerful travel engine build on WordPress.Responsible for the
+quality analysis, final documentation.Worked as the customer support engineer for this product.Responsible for decision to
+make the product live after full testing. Assisted sales team to penetrate the conversion opportunities."
+  - name: "I-Agri - Web based Agricultural Application "
+    description: "Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,
+Android).My part was to determine functional requirements and high-level features for the project.I performed the Quality
+Analysis.I also Gather analytics, manage budgets, and act as project manager."
+    
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
@@ -84,7 +79,8 @@ professional_experience:
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several Daily Scrum meetings where I assisted in setting the team's objectives and removing obstacles."
-  - title: "Production Assistant (Part-time, Contractual)"
+ 
+ - title: "Production Assistant (Part-time, Contractual)"
     company: "Way Of Wills "
     duration: "2021"
     description: 

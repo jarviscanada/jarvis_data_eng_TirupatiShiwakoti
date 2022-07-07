@@ -91,33 +91,28 @@ professional_experience:
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
-    # optional
+  education: 
+  - school_name: "Conestoga College"
+    duration: "2021-2022"
+    degree: "Post Graduate Certificate - Information Technology and Business Analysis"
+    department: "Information and technology"
     awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
+
+  - school_name: "Kantipur Engineering College"
+    duration: "2011-2015"
+    degree: "Bachelor’s in computer Engineering"
+    department: "Computer Engineering"
     awards_achievements: 
 
 #Optional section
 others:
-    #category
-  - title: "Certificates"
-    #list of items
+  - title: "Activities"
     bullets:
-      - "Udacity Machine Learning (2019)"
-  - title: "Awards"
+      - "Taekwondo player"
+      - "Volunteer, Little Sister’s Fund: Organized events, conducted workshops and delivered workshops reaching over 100 girls."
+      - "Volunteer,Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"
+  - title: "Hobbies"
     bullets:
-      - "Winner"
-  - title: "Activities/Hobbies"
-    bullets:
-      - "Basketball player"
-      - "Competitive gaming"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      - "Trekking"
+      - "Cooking"
+

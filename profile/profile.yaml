@@ -1,36 +1,36 @@
 # Preferred name (Characters only)
 name: "Tirupati Shiwakoti"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_TirupatiShiwakoti
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary:"An aspiring PG graduate in Information Technology and Business Analysis and administrative expert with 4+ years of experience in the information technology, service industries, and Cosmetic Industries. Experienced in Customer and Client Services, Project Management, Quality Analysis, and Marketing, including Digital Marketing, and an enthusiastic learner understanding business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am learning about standard technologies as well as numerous tools and methodologies for data analysis. I can also use my technological skills on a regular basis in a variety of fields, including  SQL, Linux, and others."
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Java
+    - Excel
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Python
+    - Linux/Bash
+    - Docker
+    - GitFlow
+    - Testing
   # At least 5 skills
   familiar:
-    - Donec
-    - fermentum
-    - fermentum
-    - fermentum
-    - fermentum
+    - Google Cloud Platform
+    - Python
+    - GitFlow
+    - RDBMS/SQL
+    - Computer Network
 
 # List of Jarvis projects
 jarvis_projects:

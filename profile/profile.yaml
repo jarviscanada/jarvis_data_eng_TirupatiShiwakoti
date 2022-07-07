@@ -27,9 +27,9 @@ skills:
   # At least 5 skills
   familiar:
     - Google Cloud Platform
-    - Python
+    - NumPy
     - GitFlow
-    - RDBMS/SQL
+    - Pandas
     - Computer Network
 
 # List of Jarvis projects

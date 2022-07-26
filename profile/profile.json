@@ -38,14 +38,9 @@
       "name": "Linux Cluster Resource Monitoring App"
     },
     {
-      "description": "",
+      "description": "Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report.Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a Docker container.",
       "git_url": "/python_data_anlytics",
       "name": "Python Data Analytics"
-    },
-    {
-      "description": "Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report.Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a Docker container.",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
     }
   ],
   "name": "Tirupati Shiwakoti",
@@ -80,7 +75,7 @@
     },
     {
       "company": "WEN Solutions Pvt. Ltd",
-      "description": "Support Lead, Resolve the customer Queries related to the Product. Communicated with business clients, understood their needs, and offered solutions.Theme Reviewe, Review the themes that are to be made live in wordpress.org. Perform the technical analysis on the theme and report error to the developer.QA, Quality testing of the product (Theme/Plugins).Decision maker, Decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.PHP Developer, Code Customization as per client request.Documentation, Make the documentation of product and review the documentation of the product.",
+      "description": "Support Lead, Resolve the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions.Theme Reviewe, Review the themes that are to be made live in wordpress.org. Perform the technical analysis on the theme and report error to the developer. QA, Quality testing of the product (Theme/Plugins).Decision maker, Decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.PHP Developer, Code Customization as per client request.Documentation, Make the documentation of product and review the documentation of the product.",
       "duration": "2016-2022",
       "title": "Customer Support Engineer and Quality assurance analyst (Full-time)"
     }

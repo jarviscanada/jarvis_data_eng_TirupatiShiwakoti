@@ -13,19 +13,12 @@ summary: An aspiring PG graduate in Information Technology and Business Analysis
 
 skills:
   # Please include 
-  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
-  #     2) business tools (such as Excel, Viso, etc.)
+  #    1)soft skills (Communication, Time Management, etc) 
+  #    2) business tools (such as Excel, Viso, etc)
   Business Skills:
-    - Communication
-    - Time Management
-    - Problem Solving
-    - Negotiation and persuasion
-    - Collaberation
-    - Quick Learner
-    - Ability learn under pressure
-   
-  Business Skills:
-    - Excel
+    - Documentation
+    - Requirement Elicitation
+    - Presentation
     - Visio
     - Agile/Scrum
   

@@ -1,0 +1,123 @@
+# Preferred name (Characters only)
+name: "Tirupati Shiwakoti"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_TirupatiShiwakoti
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: An aspiring PG graduate in Information Technology and Business Analysis and administrative expert with 4+ years of experience in the information technology, service industries, and Cosmetic Industries. Experienced in Customer and Client Services, Project Management, Quality Analysis, and Marketing, including Digital Marketing, and an enthusiastic learner understanding business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am learning about standard technologies as well as numerous tools and methodologies for data analysis. I can also use my technological skills on a regular basis in a variety of fields, including  SQL, Linux, and others.
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Communication
+    - Time Management
+    - Problem Solving
+    - Negotiation and persuasion
+    - Collaberation
+    - Quick Learner
+    - Ability learn under pressure
+   
+  Business Skills:
+    - Excel
+    - Visio
+    - Agile/Scrum
+  
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Python
+    - NumPy
+    - Linux/Bash
+    - GitFlow
+    - Docker
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Primary scripts were developed using the "Bash" scripting language. It uses the bash script to create the docker container in order to set up a postgres psql instance. Two bash scripts, host_info.sh collects the hardware information and host_usage collects the data regarding the maemory and cpu usage and monitors resource usage every minute using crontab. These scripts are use to add the dats into database using ddl.sql file.
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report.Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a Docker container.
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "WP Travel (WordPress Plugin)"
+    #URL is optional
+    #git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: WP Travel is a free powerful travel engine build on WordPress.Responsible for the quality analysis, final documentation.Worked as the customer support engineer for this product.Responsible for decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.
+  - name: "I-Agri - Web based Agricultural Application"
+    git_url:
+    description: Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android).My part was to determine functional requirements and high-level features for the project.I performed the Quality Analysis.I also Gather analytics, manage budgets, and act as project manager.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "BSA"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several Daily Scrum meetings where I assisted in setting the team's objectives and removing obstacles."
+  - title: "Production Assistant (Part-time, Contractual)"
+    company: "Way Of Wills"
+    duration: "2021"
+    description: "Worked as a QA, was responsible for assisting the supervisor to perform the quality check of the product.I was a Request Handler, Responding to requests from other members of the production team.I was also an assistant, Assisting the supervisor analyzing the final product ready for shipment."
+  - title: "Customer Support Engineer and Quality assurance analyst (Full-time)"
+    company: "WEN Solutions Pvt. Ltd"
+    duration: "2016-2022"
+    description: "Support Lead, Resolve the customer Queries related to the Product. Communicated with business clients, understood their needs, and offered solutions.Theme Reviewe, Review the themes that are to be made live in wordpress.org. Perform the technical analysis on the theme and report error to the developer.QA, Quality testing of the product (Theme/Plugins).Decision maker, Decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.PHP Developer, Code Customization as per client request.Documentation, Make the documentation of product and review the documentation of the product."
+  
+#List of edcuation
+
+education: 
+  - school_name: "Conestoga College"
+    duration: "2021-2022"
+    degree: "Post Graduate Certificate - Information Technology and Business Analysis"
+    department: "Information and Technology"
+    # optional
+    awards_achievements:
+     - "Fist Division"
+  - school_name: "Tribhuvan University"
+    duration: "2011-2015"
+    degree: "Bachelors in computer Engineering"
+    department: "Electrical and Computer Engineering"
+    awards_achievements:
+     - "First Division"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Lite Technical Exhibition 2015"
+  #- title: "Awards"
+   # bullets:
+    #  - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Taekwondo player; Participated in regional level"
+      - "Volunteer; Little Sisters Fund: Organized events, conducted workshops and delivered workshops reaching over 100 girls."
+      - "Volunteer; Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"

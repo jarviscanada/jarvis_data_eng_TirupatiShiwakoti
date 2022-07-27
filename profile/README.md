@@ -58,14 +58,14 @@ I graduate with a post-graduate degree in Information Technology and Business An
 ## List of edcuation
 
 education: 
-  - school_name: "Conestoga College"
+###  - school_name: "Conestoga College"
     duration: "2021-2022"
     degree: "Post Graduate Certificate - Information Technology and Business Analysis"
     department: "Information and Technology"
     awards_achievements:
      - "First Division"
      
-  - school_name: "Tribhuvan University"
+###  - school_name: "Tribhuvan University"
     duration: "2011-2015"
     degree: "Bachelors in computer Engineering"
     department: "Electrical and Computer Engineering"
@@ -73,10 +73,10 @@ education:
      - "First Division"
 
 ## others:
-  Certificates
-      - "Lite Technical Exhibition 2015"
-
-  Activities/Hobbies
-      - "Taekwondo Competitor; Participated in regional level"
-      - "Volunteer; Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls."
-      - "Volunteer; Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"
+###  Certificates:
+    - "Lite Technical Exhibition 2015"
+      
+###  Activities/Hobbies:
+      - "Taekwondo Competitor, Participated in regional level"
+      - "Volunteer, Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls."
+      - "Volunteer, Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"

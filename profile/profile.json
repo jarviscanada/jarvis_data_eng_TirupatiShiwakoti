@@ -2,7 +2,7 @@
   "education": [
     {
       "awards_achievements": [
-        "Fist Division"
+        "First Division"
       ],
       "degree": "Post Graduate Certificate - Information Technology and Business Analysis",
       "department": "Information and Technology",
@@ -22,18 +22,18 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_TirupatiShiwakoti",
   "highlighted_projects": [
     {
-      "description": "WP Travel is a free powerful travel engine build on WordPress.Responsible for the quality analysis, final documentation.Worked as the customer support engineer for this product.Responsible for decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.",
+      "description": "WP Travel is a free powerful travel engine built on WordPress. My responsibility for the product was to perform the quality analysis and prepare final documentation of the plugin. I worked as the customer support engineer for this product and was responsible for the decision to make the product live after complete testing. I assisted the sales team in marketing as well.",
       "name": "WP Travel (WordPress Plugin)"
     },
     {
-      "description": "Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android).My part was to determine functional requirements and high-level features for the project.I performed the Quality Analysis.I also Gather analytics, manage budgets, and act as project manager.",
+      "description": "Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android). My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.",
       "git_url": null,
       "name": "I-Agri - Web based Agricultural Application"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Primary scripts were developed using the \"Bash\" scripting language. It uses the bash script to create the docker container in order to set up a postgres psql instance. Two bash scripts, host_info.sh collects the hardware information and host_usage collects the data regarding the maemory and cpu usage and monitors resource usage every minute using crontab. These scripts are use to add the dats into database using ddl.sql file.",
+      "description": "Primary scripts were developed using the bash scripting language. It uses the bash script to create the docker container in order to set up a postgres sql instance. Two bash scripts, host_info.sh collects the hardware information and host_usage.sh collects the data regarding the maemory and cpu usage and monitors resource usage every minute using crontab. These scripts are use to add the dats into database using ddl.sql file.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
     },
@@ -53,8 +53,8 @@
     },
     {
       "bullets": [
-        "Taekwondo player; Participated in regional level",
-        "Volunteer; Little Sisters Fund: Organized events, conducted workshops and delivered workshops reaching over 100 girls.",
+        "Taekwondo Competitor; Participated in regional level",
+        "Volunteer; Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls.",
         "Volunteer; Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"
       ],
       "title": "Activities/Hobbies"
@@ -69,13 +69,13 @@
     },
     {
       "company": "Way Of Wills",
-      "description": "Worked as a QA, was responsible for assisting the supervisor to perform the quality check of the product.I was a Request Handler, Responding to requests from other members of the production team.I was also an assistant, Assisting the supervisor analyzing the final product ready for shipment.",
+      "description": "Worked as a QA and was responsible for assisting the supervisor in performing the quality check of the product. I was a request Handler, responding to requests from other production team members. I also work as an assistant, assisting the supervisor in analyzing the final product ready for shipment.",
       "duration": "2021",
       "title": "Production Assistant (Part-time, Contractual)"
     },
     {
       "company": "WEN Solutions Pvt. Ltd",
-      "description": "Support Lead, Resolve the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions.Theme Reviewe, Review the themes that are to be made live in wordpress.org. Perform the technical analysis on the theme and report error to the developer. QA, Quality testing of the product (Theme/Plugins).Decision maker, Decision to make the product live after full testing. Assisted sales team to penetrate the conversion opportunities.PHP Developer, Code Customization as per client request.Documentation, Make the documentation of product and review the documentation of the product.",
+      "description": "I was a support lead where I resolved the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions. I reviewed the themes that are to be made live on wordpress.org. Perform the technical analysis on the Theme and report the error to the developer. My responsibility includes the quality testing of the Product (Theme/Plugins). I was also involved in decision amking process of making the Product live after complete testing. Initially, I worked as a PHP developer where I would perform Code Customization as per client requests. Documentation, Make the documentation of the Product and review the documentation of the Product.",
       "duration": "2016-2022",
       "title": "Customer Support Engineer and Quality assurance analyst (Full-time)"
     }
@@ -99,5 +99,5 @@
       "Docker"
     ]
   },
-  "summary": "An aspiring PG graduate in Information Technology and Business Analysis and administrative expert with 4+ years of experience in the information technology, service industries, and Cosmetic Industries. Experienced in Customer and Client Services, Project Management, Quality Analysis, and Marketing, including Digital Marketing, and an enthusiastic learner understanding business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am learning about standard technologies as well as numerous tools and methodologies for data analysis. I can also use my technological skills on a regular basis in a variety of fields, including  SQL, Linux, and others."
+  "summary": "I graduate with a post-graduate degree in Information Technology and Business Analysis, and I have an administrative expert with 4+ years of experience in the information technology, service, and cosmetic Industries. I have experience in customer and client Services, project management, quality analysis, and marketing, including digital Marketing, with knowledge of technical skills, including SQL, Linux, and other languages. I am an enthusiastic learner with a proper understanding of business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am developing my skill as a BSA with the use of standard technologies and the use of numerous tools and methodologies for data analysis."
 }

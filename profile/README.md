@@ -22,7 +22,7 @@ I graduate with a post-graduate degree in Information Technology and Business An
     - GitFlow
     - Docker
 ## List of Jarvis projects
-### jarvis_projects:
+### Jarvis projects:
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     description: Primary scripts were developed using the bash scripting language. It uses the bash script to create the docker container to set up a Postgress SQL instance. Two bash scripts, host_info.sh, collect the hardware information and host_usage.sh collects the data regarding the memory and CPU usage and monitors resource usage every minute using crontab. These scripts were used to add the data into the database using the ddl.sql file.
@@ -31,15 +31,15 @@ I graduate with a post-graduate degree in Information Technology and Business An
     description: Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report. Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a docker container.
 
 ## List of personal or academic projects
-### highlighted_projects:
-    #project name
-    - name: "WP Travel (WordPress Plugin)"
+### Highlighted projects:
+    #Project name
+    - Name: "WP Travel (WordPress Plugin)"
     description: WP Travel is a free powerful travel engine built on WordPress. My responsibility for the product was to perform the quality analysis and prepare final documentation of the plugin. I worked as the customer support engineer for this product and was responsible for the decision to make the product live after complete testing. I assisted the sales team in marketing as well.
-    - name: "I-Agri - Web based Agricultural Application"
+    - Name: "I-Agri - Web based Agricultural Application"
     description: Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android). My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.
 
 ## List of professional experience
-### professional_experience:
+### Professional experience:
   - title: "BSA"
     company: "Jarvis"
     duration: "2022-present"

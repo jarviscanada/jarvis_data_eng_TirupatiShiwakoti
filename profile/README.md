@@ -33,9 +33,9 @@ I graduate with a post-graduate degree in Information Technology and Business An
 ## List of personal or academic projects
 ### Highlighted projects:
     #Project name
-    - Name: "WP Travel (WordPress Plugin)"
+    - WP Travel (WordPress Plugin)
     description: WP Travel is a free powerful travel engine built on WordPress. My responsibility for the product was to perform the quality analysis and prepare final documentation of the plugin. I worked as the customer support engineer for this product and was responsible for the decision to make the product live after complete testing. I assisted the sales team in marketing as well.
-    - Name: "I-Agri - Web based Agricultural Application"
+    - I-Agri - Web based Agricultural Application
     description: Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android). My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.
 
 ## List of professional experience

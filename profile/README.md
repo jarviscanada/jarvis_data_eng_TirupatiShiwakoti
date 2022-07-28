@@ -78,5 +78,5 @@ education:
       
 ###  Activities/Hobbies:
       - "Taekwondo Competitor, Participated in regional level"
-      - "Volunteer, Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls."
+      - "Volunteer, Little Sisters Fund: Organized events reaching over 100 girls."
       - "Volunteer, Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"

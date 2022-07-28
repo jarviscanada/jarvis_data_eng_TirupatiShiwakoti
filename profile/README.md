@@ -40,17 +40,17 @@ I graduate with a post-graduate degree in Information Technology and Business An
 
 ## List of professional experience
 ### Professional experience:
-  - title: "BSA"
+  - BSA
     company: "Jarvis"
     duration: "2022-present"
     description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several Daily Scrum meetings where I assisted in setting the team's objectives and removing obstacles."
  
-   - title: "Production Assistant (Part-time, Contractual)"
+   - Production Assistant (Part-time, Contractual)
      company: "Way Of Wills"
      duration: "2021"
      description: "Worked as a QA and was responsible for assisting the supervisor in performing the quality check of the product. I was a request Handler, responding to requests from other production team members. I also work as an assistant, assisting the supervisor in analyzing the final product ready for shipment."
   
-  - title: "Customer Support Engineer and Quality assurance analyst (Full-time)"
+  - Customer Support Engineer and Quality assurance analyst (Full-time)
     company: "WEN Solutions Pvt. Ltd"
     duration: "2016-2022"
     description: "I was a support lead where I resolved the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions. I reviewed the themes that are to be made live on wordpress.org. Perform the technical analysis on the Theme and report the error to the developer. My responsibility includes the quality testing of the Product (Theme/Plugins). I was also involved in decision amking process of making the Product live after complete testing. Initially, I worked as a PHP developer where I would perform Code Customization as per client requests. Documentation, Make the documentation of the Product and review the documentation of the Product."

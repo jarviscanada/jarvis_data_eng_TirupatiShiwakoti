@@ -23,10 +23,10 @@ I graduate with a post-graduate degree in Information Technology and Business An
     - Docker
 ## List of Jarvis projects
 ### Jarvis projects:
-  - name: "Linux Cluster Resource Monitoring App"
+  - Linux Cluster Resource Monitoring App
     git_url: "/linux_sql"
     description: Primary scripts were developed using the bash scripting language. It uses the bash script to create the docker container to set up a Postgress SQL instance. Two bash scripts, host_info.sh, collect the hardware information and host_usage.sh collects the data regarding the memory and CPU usage and monitors resource usage every minute using crontab. These scripts were used to add the data into the database using the ddl.sql file.
-  - name: "Python Data Analytics"
+  - Python Data Analytics
     git_url: "/python_data_anlytics"
     description: Performed data analysis on transaction data submitted by LGS to assist the marketing team in finding the answers to commercial queries so that the company's income may be increased utilising RFM report. Python was utilised for the study together with libraries like pandas, numPy, scipy, and seaborn in a Jupyter notebook. The company's data warehouse, Postgres, was operated via a docker container.
 

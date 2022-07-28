@@ -8,7 +8,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_TirupatiSh
 # 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire you.
 summary: I graduated with a post-graduate degree in Information Technology and Business Analysis from Conestoga college. I have 4+ years of experience in the information technology, service, and cosmetic industries. I have worked in customer and client Services, project management, quality analysis, and marketing, including digital marketing. I am proficient in a variety of technical skills such as SQL, Linux, and other languages. I am an enthusiastic learner with a proper understanding of business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am developing my skill as a BSA with the use of standard technologies and the use of numerous tools and methodologies for data analysis.
 
 skills:
@@ -61,7 +61,7 @@ highlighted_projects:
     description: WP Travel is a free powerful travel engine built on WordPress. My responsibility for the product was to perform the quality analysis and prepare final documentation of the plugin. I worked as the customer support engineer for this product and was responsible for the decision to make the product live after complete testing. I assisted the sales team in marketing as well.
   - name: "I-Agri - Web based Agricultural Application"
     git_url:
-    description: Web application related to agriculture along with the SMS feature. Programming language used were PHP, CSS, JavaScript and Android. My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.
+    description: Web application related to agriculture along with the SMS feature. Programming language used were PHP, CSS, JavaScript and Android. My part was to determine functional requirements and high-level features for the project. I performed the quality analysis. I also gather analytics, manage budgets, and work as project manager.
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -112,5 +112,5 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Taekwondo Competitor; Participated in regional level"
-      - "Volunteer; Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls."
+      - "Volunteer; Little Sisters Fund: Conducted workshops reaching over 100 girls."
       - "Volunteer; Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"

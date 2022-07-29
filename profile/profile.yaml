@@ -9,7 +9,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_TirupatiSh
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I graduate with a post-graduate degree in Information Technology and Business Analysis, and I have an administrative expert with 4+ years of experience in the information technology, service, and cosmetic Industries. I have experience in customer and client Services, project management, quality analysis, and marketing, including digital Marketing, with knowledge of technical skills, including SQL, Linux, and other languages. I am an enthusiastic learner with a proper understanding of business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am developing my skill as a BSA with the use of standard technologies and the use of numerous tools and methodologies for data analysis.
+summary: I graduated with a post-graduate degree in Information Technology and Business Analysis from Conestoga college. I have 4+ years of experience in the information technology, service, and cosmetic industries where I worked in customer and client Services, project management, quality analysis, and marketing, including digital marketing. I am proficient in a variety of technical skills such as SQL, Linux, and other languages. I am an enthusiastic learner with a proper understanding of business and information technology. I am currently working as a BSA at Jarvis Consulting Group, where I am developing my skill as a BSA with the use of standard technologies and the use of numerous tools and methodologies for data analysis.
 
 skills:
   # Please include 
@@ -61,7 +61,7 @@ highlighted_projects:
     description: WP Travel is a free powerful travel engine built on WordPress. My responsibility for the product was to perform the quality analysis and prepare final documentation of the plugin. I worked as the customer support engineer for this product and was responsible for the decision to make the product live after complete testing. I assisted the sales team in marketing as well.
   - name: "I-Agri - Web based Agricultural Application"
     git_url:
-    description: Web application related to agriculture along with the SMS feature. Programming Language used were PHP, CSS. JavaScript,Android). My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.
+    description: Web application related to agriculture along with the SMS feature. Programming language used were PHP, CSS, JavaScript and Android. My part was to determine functional requirements and high-level features for the project. I performed the quality qnalysis. I also gather analytics, manage budgets, and work as project manager.
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -72,15 +72,15 @@ professional_experience:
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several Daily Scrum meetings where I assisted in setting the team's objectives and removing obstacles."
+    description: "Finished projects with a team using Agile/Scrum methodology, utilising tools and technologies including Linux, SQL, and Docker. I oversaw several daily scrum meetings where I assisted in setting the team's objectives and removing obstacles."
   - title: "Production Assistant (Part-time, Contractual)"
     company: "Way Of Wills"
     duration: "2021"
-    description: "Worked as a QA and was responsible for assisting the supervisor in performing the quality check of the product. I was a request Handler, responding to requests from other production team members. I also work as an assistant, assisting the supervisor in analyzing the final product ready for shipment."
+    description: "Worked as a QA and was responsible for assisting the supervisor in performing the quality check of the product. I was a request handler, responding to requests from other production team members. I also work as an assistant, assisting the supervisor in analyzing the final product ready for shipment."
   - title: "Customer Support Engineer and Quality assurance analyst (Full-time)"
     company: "WEN Solutions Pvt. Ltd"
     duration: "2016-2022"
-    description: "I was a support lead where I resolved the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions. I reviewed the themes that are to be made live on wordpress.org. Perform the technical analysis on the Theme and report the error to the developer. My responsibility includes the quality testing of the Product (Theme/Plugins). I was also involved in decision amking process of making the Product live after complete testing. Initially, I worked as a PHP developer where I would perform Code Customization as per client requests. Documentation, Make the documentation of the Product and review the documentation of the Product."
+    description: "I was a support lead where I resolved the customer queries related to the Product. Communicated with business clients, understood their needs, and offered solutions. I reviewed the themes that are to be made live on wordpress.org. Perform the technical analysis on the Theme and report the error to the developer. My responsibility includes the quality testing of the product (Theme/Plugins). I was also involved in decision amking process of making the Product live after complete testing. Initially, I worked as a PHP developer where I would perform code customization as per client requests. I was also involved in making the documentation of the product and review the documentation of the product."
   
 #List of edcuation
 
@@ -91,13 +91,13 @@ education:
     department: "Information and Technology"
     # optional
     awards_achievements:
-     - "First Division"
+     - "GPA: 3.54"
   - school_name: "Tribhuvan University"
     duration: "2011-2015"
     degree: "Bachelors in computer Engineering"
     department: "Electrical and Computer Engineering"
     awards_achievements:
-     - "First Division"
+     - "GPA: 3.1"
 
 #Optional section
 others:
@@ -112,5 +112,5 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Taekwondo Competitor; Participated in regional level"
-      - "Volunteer; Little Sisters Fund: Organized events, conducted workshops reaching over 100 girls."
+      - "Volunteer; Little Sisters Fund: Conducted workshops reaching over 100 girls."
       - "Volunteer; Amnesty International Nepal: Served as a volunteer for several programs held by Amnesty International in Kathmandu"
